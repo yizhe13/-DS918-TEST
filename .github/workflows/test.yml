@@ -23,7 +23,7 @@ jobs:
       fail-fast: false
       matrix:
         include:
-          #  两行一组，删除不需要的版本
+          #  两行一组，删除不需要的版本1
 
           - platform: ds918p
             version: 7.1.0-42661
